@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Currently developing my skill to break into the world of Software Development; follow my journey! 
 
 <!--
 **Ramseybenavides/Ramseybenavides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
